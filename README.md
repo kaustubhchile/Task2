@@ -23,8 +23,9 @@ The following Outline properties were used:
 The following Box properties were used:
 1)Box Shadow
 2)Box sizing
-![box1](https://user-images.githubusercontent.com/72078555/130051815-76cad59f-0443-483a-8415-e6b085f06e71.PNG)
+
 ![box2](https://user-images.githubusercontent.com/72078555/130051817-1073b6d8-d8a8-4368-9dff-09ad2b02f7cf.PNG)
+![box1](https://user-images.githubusercontent.com/72078555/130051815-76cad59f-0443-483a-8415-e6b085f06e71.PNG)
 
 
 The following Background properties were used:
