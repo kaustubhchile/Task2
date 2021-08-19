@@ -15,7 +15,6 @@ The following Outline properties were used:
 2)Outline color
 3)Outline offset
 4)Outline shorthand
-
 ![outline](https://user-images.githubusercontent.com/72078555/130050744-e6c71432-52eb-44ab-9059-3723ecf0e59c.PNG)
 
 The following Box properties were used:
