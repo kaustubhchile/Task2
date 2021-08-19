@@ -1,0 +1,43 @@
+.outline1{
+    border: 1px solid red;
+    outline: 5px dotted green;
+}
+.outline2{
+    margin-top:40px;
+    border: 1px solid red;
+    outline: 2px dashed blue;
+}
+.outline3{
+    margin-top: 40px;
+    border: 1px solid black;
+    background-color: yellow;
+    outline: 5px dashed blue;
+    outline-offset: 5px;
+}
+.outline4{
+    margin-top: 40px;
+    outline-style: groove;
+    outline-color: coral;
+    outline-width: 7px;
+
+}
+.outline5{
+    margin-top: 40px;
+    outline-style: ridge;
+    outline-color: coral;
+    outline-width: 7px;
+
+}
+.outline6{
+    margin-top: 40px;
+    outline-style: inset;
+    outline-color: coral;
+    outline-width: 7px;
+
+}
+.outline7{
+    margin-top: 40px;
+    outline-style: outset;
+    outline-color: coral;
+    outline-width: 7px;
+}
