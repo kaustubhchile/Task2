@@ -16,9 +16,13 @@ The following Outline properties were used:
 3)Outline offset
 4)Outline shorthand
 
+![outline](https://user-images.githubusercontent.com/72078555/130050744-e6c71432-52eb-44ab-9059-3723ecf0e59c.PNG)
+
 The following Box properties were used:
 1)Box Shadow
 2)Box sizing
+![box1](https://user-images.githubusercontent.com/72078555/130050735-26fe8e3c-59d1-4afc-9bda-3d84412eb913.PNG)
+![box2](https://user-images.githubusercontent.com/72078555/130050740-fe5a04c5-f02e-4bfc-963a-330abc58d246.PNG)
 
 The following Background properties were used:
 1)Background Color
