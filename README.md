@@ -7,6 +7,8 @@ The following Border properties were used:
 3)Border sides
 4)Border shorthand
 5)Rounded borders
+![border](https://user-images.githubusercontent.com/72078555/130050747-dd1299b7-e048-47f3-8b33-b92225aecd9f.PNG)
+
 
 The following Outline properties were used:
 1)Outline width
